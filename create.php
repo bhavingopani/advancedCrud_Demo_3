@@ -322,7 +322,7 @@
 
         <div class="col-4">??/
                 <label for="inputState">Upload a picture</label>
-                <input type="text" class="form-control" id="inputState" placeholder="State">    
+                <input type="image" class="form-control" id="inputState" placeholder="State">    
         </div>
 
 
