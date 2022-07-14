@@ -319,12 +319,12 @@
                 <input  class="form-control" name="tags" id= "names">
             </div>
         </div>
-
-        <div class="col-4">??/
-                <label for="inputState">Upload a picture</label>
-                <input type="image" class="form-control" id="inputState" placeholder="State">    
+        <div class="row">
+            <div class="col-4">
+                <label class="form-label" for="customFile">Upload a jpg/jpeg/png file only</label>
+                <input type="file" class="form-control" id="customFile" />`
+            </div>
         </div>
-
 
         </br>
         <div>
